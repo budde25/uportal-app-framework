@@ -71,7 +71,7 @@
   "homepage": "https://github.com/uPortal-Project/uportal-app-framework",
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^7.0.0",
+    "@commitlint/config-conventional": "^8.3.4",
     "@commitlint/travis-cli": "^7.0.0",
     "autoprefixer": "^9.0.0",
     "concurrently": "^3.1.0",
